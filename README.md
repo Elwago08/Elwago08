@@ -14,7 +14,6 @@ I'm a Computer Science major at Grace college who would love to make his own vid
 
 ## Connections
 - **Email**: gossew@grace.edu
-
 ## FUN FACTS ABOUT ME!!
 -I've never been on an airplane before
 
