@@ -14,3 +14,13 @@ I'm a Computer Science major at Grace college who would love to make his own vid
 
 ## Connections
 - **Email**: gossew@grace.edu
+
+## FUN FACTS ABOUT ME!!
+-I've never been on an airplane before
+
+-I enjoy listening to music while I work
+
+-I have 3 dogs and love them very much!
+
+## RANDOM FUN FACT
+-The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.
