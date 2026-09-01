@@ -8,3 +8,6 @@ I'm a Computer Science major at Grace college who would love to make his own vid
 -**Tools**: Learning how to use VS Code, Git, and GitHub
 
 -**Interests**: Keeping code readable, making code that's easy to understand
+
+## Leaning Goals
+- I'm planning to get my four-year degree in Computer Science in spring 2029
