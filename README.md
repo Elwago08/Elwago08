@@ -11,3 +11,6 @@ I'm a Computer Science major at Grace college who would love to make his own vid
 
 ## Leaning Goals
 - I'm planning to get my four-year degree in Computer Science in spring 2029
+
+## Connections
+- **Email**: gossew@grace.edu
